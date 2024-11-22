@@ -150,7 +150,7 @@ function Questions() {
       {showResult && (
         <div className="result-container">
           <p className="result-message">
-            You scored {numCorrectAnswers}/5 correct answers
+            You scored {numCorrectAnswers}/{questions.length} correct answers
           </p>
           <button className="play-again-btn" onClick={playAgain}>
             Play again
