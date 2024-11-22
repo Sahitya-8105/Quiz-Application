@@ -12,9 +12,6 @@ Build quiz app with React. You will work on:
 
 📝 Play again
 
-## YouTube tutorial
-
-[Build quiz app with React](https://youtube.com/playlist?list=PLV3Qom85zpc3E7DffFVv84-cKYUZBOKx8)
 
 ## Project Setup
 
